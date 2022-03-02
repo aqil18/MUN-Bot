@@ -2,7 +2,7 @@ import discord
 from voting import Voting
 from register import Register
 
-TOKEN = 'OTQxNDg5NDEwNzc0NTUyNjU5.YgWsVw.Ha6Ri-RHMy9VIOKBqnv0lmkfwPQ'
+TOKEN = 'OTQxNDg5NDEwNzc0NTUyNjU5.YgWsVw.lj3O9-bcYfHqNSAjVR0vy2fs1AY'
 
 client = discord.Client()
 
